@@ -23,7 +23,7 @@
     "tag": "NEWS",
     "title": "November 19 release date holding firm",
     "body": "Take-Two reconfirmed the November 19, 2026 launch on PS5 and Xbox Series X|S, with the marketing push starting this summer. Still no PC release date announced.",
-    "image": null,
+    "image": "article_news",
     "link": null
   },
   {
@@ -32,7 +32,7 @@
     "tag": "GUIDE",
     "title": "What's coming to this app",
     "body": "Intel drops here the moment news breaks: trailers, release updates, and the best speculation. After launch this tab becomes your guide hub — cheat codes, money methods, and map secrets.",
-    "image": null,
+    "image": "article_guide",
     "link": null
   }
 ]
