@@ -1,14 +1,5 @@
 [
   {
-    "id": "feed-live",
-    "date": "2026-08-07",
-    "tag": "NEWS",
-    "title": "The Intel feed is now live",
-    "body": "This story was published remotely — no app update required. Breaking GTA 6 news, rumors, and (come November 19) cheat codes will land here the moment they drop. Pull to refresh.",
-    "image": "char_lucia",
-    "link": null
-  },
-  {
     "id": "extended-look",
     "date": "2026-08-06",
     "tag": "NEWS",
@@ -30,9 +21,9 @@
     "id": "welcome",
     "date": "2026-08-07",
     "tag": "GUIDE",
-    "title": "What's coming to this app",
-    "body": "Intel drops here the moment news breaks: trailers, release updates, and the best speculation. After launch this tab becomes your guide hub — cheat codes, money methods, and map secrets.",
-    "image": "article_guide",
+    "title": "Welcome to VI Intel",
+    "body": "Your command center for the road to November 19: live countdown, breaking news and rumors, every revealed character with full galleries, and a concept map of Leonida. When the game drops, this is where the guides and cheat codes land — the moment they surface.",
+    "image": "char_lucia",
     "link": null
   },
   {
