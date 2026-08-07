@@ -34,5 +34,77 @@
     "body": "Intel drops here the moment news breaks: trailers, release updates, and the best speculation. After launch this tab becomes your guide hub — cheat codes, money methods, and map secrets.",
     "image": "article_guide",
     "link": null
+  },
+  {
+    "id": "trailer3-watch",
+    "date": "2026-08-07",
+    "tag": "RUMOR",
+    "title": "Trailer 3 watch: insiders say August is the month",
+    "body": "Multiple industry insiders are pointing at August for the next big drop. Tom Henderson floated an early-August window for Trailer 3, NateTheHate says he expects \"a fair bit\" of the game this month, and fans caught Rockstar's official site quietly changing three times behind the scenes on July 29. With the Extended Look premiering August 27, the smart money says the marketing machine is just getting started.",
+    "image": "article_rumors",
+    "link": "https://www.vice.com/en/article/gta-6-gameplay-coming-august/"
+  },
+  {
+    "id": "online-mode-rumor",
+    "date": "2026-08-06",
+    "tag": "RUMOR",
+    "title": "Is the online mode reveal next?",
+    "body": "Nothing official yet — but speculation is heating up that the first look at the game's online multiplayer could land alongside the August marketing push. GTA Online printed money for over a decade, so whatever replaces it is arguably the biggest unrevealed piece of the puzzle. Watch the Extended Look for hints.",
+    "image": "article_nightlife",
+    "link": null
+  },
+  {
+    "id": "map-size-rumor",
+    "date": "2026-08-04",
+    "tag": "RUMOR",
+    "title": "125 km² of Leonida? What the trailer math says",
+    "body": "Community analysis of the trailers puts the map at roughly 125 square kilometers of land — about double GTA V — spread across six announced regions, from Vice City and the Keys to the Grassrivers wetlands and Mount Kalaga. Rockstar hasn't confirmed a number, but frame-by-frame cartographers have been eerily accurate before. Check our Map tab for every confirmed location.",
+    "image": "article_map",
+    "link": null
+  },
+  {
+    "id": "pc-port-rumor",
+    "date": "2026-08-02",
+    "tag": "RUMOR",
+    "title": "PC players: history says you're waiting",
+    "body": "Still no PC announcement, and Rockstar's track record tells the story — GTA V hit consoles in September 2013 and PC in April 2015; RDR2 took over a year. Expect console exclusivity at launch on November 19, with a PC (and likely enhanced) version somewhere down the road. When Rockstar says otherwise, you'll read it here first.",
+    "image": "article_heat",
+    "link": null
+  },
+  {
+    "id": "pricing-confirmed",
+    "date": "2026-06-24",
+    "tag": "NEWS",
+    "title": "$80 standard, $100 Ultimate — pricing is official",
+    "body": "Rockstar confirmed the standard edition at $79.99 and the Ultimate Edition at $99.99. Ultimate buyers get bonus vehicles, weapons, two exclusive side missions, and access to exclusive vendors — a car mod shop, tattoo parlor, clothing store, and salon. Analysts project as many as 85 million copies sold in the first two months.",
+    "image": "article_money",
+    "link": "https://www.forbes.com/sites/paultassi/2026/06/24/rockstar-reveals-gta-6s-price-is-80-confirms-preorder-time-bonuses/"
+  },
+  {
+    "id": "preorders-live",
+    "date": "2026-06-25",
+    "tag": "NEWS",
+    "title": "Preorders are live — everyone gets the Vintage Vice City Pack",
+    "body": "Preorders opened June 25 at midnight local time for PS5, PS5 Pro, and Xbox Series X|S. Every preorder, regardless of edition, includes the Vintage Vice City Pack at launch — headlined by the two-tone '55 Vapid Stanier and a garage alongside Ocean Beach, plus retro outfits and styles for both Jason and Lucia. Beware fake preorder listings floating around at inflated prices — buy from official channels only.",
+    "image": "article_vehicles",
+    "link": "https://variety.com/2026/gaming/news/gta-6-price-single-player-pre-orders-1236789407/"
+  },
+  {
+    "id": "guides-coming",
+    "date": "2026-08-05",
+    "tag": "GUIDE",
+    "title": "Guides hub — unlocking at launch",
+    "body": "The moment the game drops, this section becomes your playbook: mission walkthroughs, money-making methods, map secrets, collectibles, and the fastest routes through Leonida. We're building it now so it's ready on day one. Until then, catch up on the characters and explore the map.",
+    "image": "article_missions",
+    "link": null
+  },
+  {
+    "id": "cheats-coming",
+    "date": "2026-08-03",
+    "tag": "CHEATS",
+    "title": "Cheat codes — coming soon",
+    "body": "The second cheat codes surface — and they always do — they'll be catalogued here: every code, every platform, every effect. GTA V shipped with over 30 of them, from invincibility to spawning a Buzzard. History says Leonida will be no different. Follow along so you're first to know.",
+    "image": "article_cheats",
+    "link": null
   }
 ]
