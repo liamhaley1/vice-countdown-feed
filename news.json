@@ -1,5 +1,14 @@
 [
   {
+    "id": "feed-live",
+    "date": "2026-08-07",
+    "tag": "NEWS",
+    "title": "The Intel feed is now live",
+    "body": "This story was published remotely — no app update required. Breaking GTA 6 news, rumors, and (come November 19) cheat codes will land here the moment they drop. Pull to refresh.",
+    "image": "char_lucia",
+    "link": null
+  },
+  {
     "id": "extended-look",
     "date": "2026-08-06",
     "tag": "NEWS",
