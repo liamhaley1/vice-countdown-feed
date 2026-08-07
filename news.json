@@ -1,0 +1,29 @@
+[
+  {
+    "id": "extended-look",
+    "date": "2026-08-06",
+    "tag": "NEWS",
+    "title": "Gameplay showcase confirmed for August 27",
+    "body": "Rockstar officially announced \"Grand Theft Auto VI: An Extended Look\" — premiering August 27 on Netflix at 3 PM ET, then on YouTube and the official site at 9 PM ET. First real gameplay since Trailer 2.",
+    "image": "Backdrop",
+    "link": "https://www.rockstargames.com"
+  },
+  {
+    "id": "release-date-held",
+    "date": "2026-05-23",
+    "tag": "NEWS",
+    "title": "November 19 release date holding firm",
+    "body": "Take-Two reconfirmed the November 19, 2026 launch on PS5 and Xbox Series X|S, with the marketing push starting this summer. Still no PC release date announced.",
+    "image": null,
+    "link": null
+  },
+  {
+    "id": "welcome",
+    "date": "2026-08-07",
+    "tag": "GUIDE",
+    "title": "What's coming to this app",
+    "body": "Intel drops here the moment news breaks: trailers, release updates, and the best speculation. After launch this tab becomes your guide hub — cheat codes, money methods, and map secrets.",
+    "image": null,
+    "link": null
+  }
+]
